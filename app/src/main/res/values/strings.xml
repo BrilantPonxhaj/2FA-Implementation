@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2FA_Class</string>
+    <string name="password">Password</string>
+    <string name="signupbutton">SignUpButton</string>
+</resources>
